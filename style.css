@@ -21,7 +21,7 @@ html,body{
     margin: 0 auto;
 }
 nav{
-    background: white;
+    background: rgb(204,231,196);
     top:0;
     position:sticky;
     box-shadow: 5px 5px 5px rgba(1,1,1,0.05);
@@ -163,7 +163,7 @@ button:hover{
     grid-area: I7;
 }
 
-.footer{
+footer{
     background-color: #fff0db;
 
 }
